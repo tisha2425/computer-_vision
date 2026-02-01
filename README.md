@@ -84,6 +84,12 @@ This repository demonstrates how document image compression can preserve visual 
 * Observe metrics, grouping behavior, and failure regions.
 
 ---
+## How to Run
+
+* Clone the repository.
+* Install dependencies.
+* Add a document image.
+* Run the notebook top to bottom.
 
 ## Conclusion
 
